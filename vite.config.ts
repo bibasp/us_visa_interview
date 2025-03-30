@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/flip-quiz-memories-main/',
+  base: '/us_visa_interview/',
   server: {
     host: "::",
     port: 8080,
